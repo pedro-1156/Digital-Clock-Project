@@ -25,4 +25,4 @@ This is a small educational project created to practice frontend development.
 ## 🧑‍💻 How to run
 1. Clone the repository:
 ```bash
-git clone https://github.com/pedro-1156/digital-clock-js.git
+git clone https://github.com/pedro-1156/Digital-Clock-Project.git
